@@ -10,4 +10,3 @@
 3. Add these below properties in application.properties which will disabled the project to be not the register as client in eureka server
     eureka.client.register-with-eureka = false
     eureka.client.fetch-registry = false
-4. register the another microservice as client in eureka server.
